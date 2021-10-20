@@ -1,6 +1,6 @@
 # Web-Quiz-Engine
 A Spring multi-user web service for creating and solving quizzes.
-https://github.com/Vaskabidze/Web-Quiz-Engine
+
 Technology stack:
 
 1) Spring Boot, Data, Security, MVC
